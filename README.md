@@ -81,7 +81,9 @@ then type
 terraform apply -auto-approve
 ```
 to apply changes .
+
 PS: You need Azure CLI installed on your local machine .
+
 6. Check Azure portal and you will notice that a resource group has been created .
 
 ### Step 5 : Cleaning up
